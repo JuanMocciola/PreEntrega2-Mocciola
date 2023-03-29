@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* index inicia*/
+
+/* nav inicia*/
+.titulo span {
+    color: rgb(255, 0, 0);
+}
+
+.nav-link {
+    color: black;
+}
+
+.navbar {
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+/* nav termina*/
+
+/* img principal inicia*/
+.imagen-bg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen-principal {
+    background-image: url(../img/setup-gaming-battlestation-3.png);
+    height: 560px;
+}
+
+.texto {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.texto:hover {
+    cursor: pointer;
+}
+
+/* img principal termina*/
