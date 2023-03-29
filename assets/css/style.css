@@ -250,3 +250,18 @@
 /* diferentes teclados termina */
 
 /* teclados termina*/
+
+/* monitores inicia*/
+/* titulo inicia*/
+.fondo2 {
+    background-image: url(../img/banner-monitor.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    color: white;
+}
+
+.fondo2 h1 {
+    padding-top: 90px;
+}
+/* titulo termina*/
