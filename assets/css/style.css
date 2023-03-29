@@ -314,3 +314,40 @@ label {
     margin-right: 10px;
 }
 /* formulario termina*/
+
+/* maps inicia*/
+
+.fondoMaps{
+    background-color: #333;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.nLeft{
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+.nLeft h2{
+    text-align: center;
+}
+
+.nLeft a{
+    text-decoration: none;
+    color: white;
+}
+
+.nLeft a:hover{
+    transition: 0.9s;
+    color: rgb(196, 77, 77);
+}
+
+.nRight{
+    padding:30px;
+    display: flex;
+}
+
+/* maps termina*/
+
+/* Contacto termina*/
