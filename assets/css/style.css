@@ -133,3 +133,33 @@
 /*  detalles parte footer y subtitulo termina*/
 
 /* index termina*/
+
+
+/* mouse inicia*/
+/* jumbotron inicia*/
+.jumbotron {
+    background-image: url(../img/bannerCalidadPrecio.jpg);
+    background-position: center;
+    height: 400px;
+    margin-bottom: 0;
+    border-radius: 0;
+    color: white;
+}
+
+.jumbotron p {
+    font-size: 20px;
+}
+
+/* jumbotron termina*/
+
+/* separador TOP1 inicia*/
+.seccionMedio {
+    background-color: rgb(92, 83, 83);
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    padding: 20px;
+    margin-bottom: 0;
+    font-weight: 200;
+}
+/* separador TOP1 termina*/
