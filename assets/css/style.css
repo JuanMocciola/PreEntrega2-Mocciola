@@ -152,7 +152,7 @@
 
 /* jumbotron termina*/
 
-/* separador TOP1 inicia*/
+/* separador TOP inicia*/
 .seccionMedio {
     background-color: rgb(92, 83, 83);
     text-align: center;
@@ -162,4 +162,45 @@
     margin-bottom: 0;
     font-weight: 200;
 }
-/* separador TOP1 termina*/
+/* separador TOP termina*/
+
+/*diferentes mouses*/
+.nleft {
+    background-image: url(/assets/img/MejorMouse.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.nright {
+    padding: 20px;
+}
+
+.tituloSeccion {
+    color: rgb(0, 0, 0);
+}
+
+.nleft2 {
+    padding: 20px;
+}
+
+.nright2 {
+    background-image: url(../img/Top2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.nleft3 {
+    background-image: url(../img/G203-Lightsync-4.webp);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.nright3 {
+    padding: 20px;
+}
+/*diferentes mouses*/
+
+/* mouse termina*/
