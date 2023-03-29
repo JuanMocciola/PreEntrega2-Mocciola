@@ -204,3 +204,19 @@
 /*diferentes mouses*/
 
 /* mouse termina*/
+
+
+/* teclados inicia*/
+/* titulo inicia*/
+.fondo {
+    background-image: url(../img/banner-teclado.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    color: white;
+}
+
+.fondo h1 {
+    padding-top: 90px;
+}
+/* titulo termina*/
