@@ -220,3 +220,33 @@
     padding-top: 90px;
 }
 /* titulo termina*/
+/* diferentes teclados inicia */
+
+.nleft4 {
+    background-image: url(../img/MejorTeclado.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.nleft5 {
+    background-image: url(../img/mejorteclado3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.nright4 {
+    padding: 20px;
+}
+
+.nright5 {
+    background-image: url(../img/segundoteclado.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+/* diferentes teclados termina */
+
+/* teclados termina*/
