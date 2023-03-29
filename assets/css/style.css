@@ -265,3 +265,30 @@
     padding-top: 90px;
 }
 /* titulo termina*/
+
+/* diferentes monitores inicia*/
+.nleft1M {
+    background-image: url(../img/MejorMonitor.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.nright4 {
+    padding: 20px;
+}
+
+.nrightM1 {
+    background-image: url(../img/top2-monitor.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.nleftM2 {
+    background-image: url(../img/top3-moni.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+/* diferentes monitores termina*/
+/* monitores termina*/
